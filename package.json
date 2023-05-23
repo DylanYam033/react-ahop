@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "NODE_OPTIONS=--experimental-top-level-await ...",
+    "build": "vite build",
     "preview": "vite preview"
   },
   "dependencies": {
